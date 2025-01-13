@@ -8,7 +8,7 @@
 - [ ] Note that you can also [include images](https://devblogs.microsoft.com/nuget/add-a-readme-to-your-nuget-package/#markdown-and-image-support)!
 - [ ] Mention any limitations
 
-For use with vvvv, the visual live-programming environment for .NET: http://visualprogramming.net
+For use with vvvv, the visual live-programming environment for .NET: http://vvvv.org
 
 ## Getting started
 - Install as [described here](https://thegraybook.vvvv.org/reference/hde/managing-nugets.html) via commandline:
